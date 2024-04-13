@@ -1,12 +1,12 @@
 {
-  "name": "clase2",
+  "name": "sdafasdfads",
   "version": "0.1.0",
   "private": true,
+  "author": "genarog",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "react": "^18",
