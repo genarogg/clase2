@@ -16,7 +16,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Image src={ana} alt="ana" width={1920} height={1080}/>
+      
 
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
